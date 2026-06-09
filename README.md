@@ -11,3 +11,5 @@ Concepts that were used:
 <br><br>
 
 <em>All recipe details were taken from <strong><a href="https://allrecipes.com" target="_blank" rel="noreferrer">AllRecipes.com</a></strong>.</em>
+
+<em>Updated with CSS Styling on 09/06/2026</em>
