@@ -20,8 +20,7 @@ h1 {
     margin: 12px -10px;
 }
 
-h4, em, h3 {
-    background-color: #73C1DE;
+h4, h3, em, a {
     color: #1C566B;
 
     font-family: Cambria, Georgia, sans-serif;
@@ -30,6 +29,10 @@ h4, em, h3 {
 
     padding: 12px;
     margin: 5px -10px;
+}
+
+h4, h3, em {
+    background-color: #73C1DE;
 }
 
 p, ul, ol {
@@ -47,7 +50,7 @@ img {
 }
 
 /* SPECIFIC CUSTOM STYLES */
-.recipe-list li a, .home-button {
+.recipe-list li, .home-button {
     color: #1C566B;
 
     font-family: Cambria, Georgia, sans-serif;
