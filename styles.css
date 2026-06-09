@@ -1,0 +1,84 @@
+* {
+    background-color: #C3F7FA;
+
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* BASE STYLES */
+h1 {
+    background-color: #ecd8d4;
+    color: #F56245;
+
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 48px;
+    text-align: center;
+
+    padding: 12px;
+    margin: 12px -10px;
+}
+
+h4, em, h3 {
+    background-color: #73C1DE;
+    color: #1C566B;
+
+    font-family: Cambria, Georgia, sans-serif;
+    font-size: 18px;
+    text-align: center;
+
+    padding: 12px;
+    margin: 5px -10px;
+}
+
+p, ul, ol {
+    color: #0a313f;
+
+    font-family: Cambria, Georgia, sans-serif;
+    font-size: 18px;
+
+    padding: 8px;
+}
+
+img {
+    width: 750px;
+    margin: auto;
+}
+
+/* SPECIFIC CUSTOM STYLES */
+.recipe-list li a, .home-button {
+    color: #1C566B;
+
+    font-family: Cambria, Georgia, sans-serif;
+    font-size: 18px;
+    text-align: center;
+
+    border: 3px outset #73C1DE;
+    padding: 12px;
+    margin: 8px;
+    display: inline-block;
+}
+
+.ingredient-list li {
+    list-style-type: circle;
+
+    padding: 6px;
+    margin: 2px auto 2px 5%;
+}
+
+.step-list li {
+    list-style-type: decimal;
+
+    padding: 6px;
+    margin: 2px auto 2px 5%;
+}
+
+h4.end-msg, h4.end-msg em {
+    background-color: #ecd8d4;
+    color: #F56245;
+
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
